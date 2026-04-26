@@ -9,3 +9,4 @@ edition = "2021"
 # Learn about dependencies by adding a simple one
 [dependencies]
 # TODO: Add the "colored" crate version "2" to make colorful output
+colored="2"
