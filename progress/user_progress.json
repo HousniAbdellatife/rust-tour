@@ -1,0 +1,100 @@
+{
+  "user_id": "default",
+  "created_at": "2026-04-26T23:16:47.550587+00:00",
+  "overall_progress": 0.025,
+  "chapters_completed": 0,
+  "exercises_completed": 1,
+  "total_exercises": 40,
+  "current_streak": 0,
+  "longest_streak": 0,
+  "total_time_minutes": 0,
+  "chapters": {
+    "1": {
+      "chapter_number": 1,
+      "completion_percentage": 0.0,
+      "exercises_completed": 0,
+      "time_spent_minutes": 0,
+      "title": "Getting Started",
+      "total_exercises": 6
+    },
+    "2": {
+      "chapter_number": 2,
+      "completion_percentage": 0.0,
+      "exercises_completed": 0,
+      "time_spent_minutes": 0,
+      "title": "Guessing Game",
+      "total_exercises": 8
+    },
+    "3": {
+      "chapter_number": 3,
+      "completion_percentage": 0.0,
+      "exercises_completed": 0,
+      "time_spent_minutes": 0,
+      "title": "Common Concepts",
+      "total_exercises": 12
+    },
+    "4": {
+      "chapter_number": 4,
+      "completion_percentage": 0.0,
+      "exercises_completed": 0,
+      "time_spent_minutes": 0,
+      "title": "Understanding Ownership",
+      "total_exercises": 6
+    },
+    "5": {
+      "chapter_number": 5,
+      "completion_percentage": 0.0,
+      "exercises_completed": 0,
+      "time_spent_minutes": 0,
+      "title": "Using Structs",
+      "total_exercises": 8
+    }
+  },
+  "exercise_history": [
+    {
+      "exercise_id": "ch01-ex01-hello-world",
+      "viewed_at": "2026-04-26T23:16:48.497181+00:00",
+      "completed_at": "2026-04-26T23:18:44.883763+00:00",
+      "time_taken_minutes": 0,
+      "status": "completed",
+      "session_id": "session_1777245524883"
+    },
+    {
+      "exercise_id": "ch01-ex02-hello-cargo",
+      "viewed_at": "2026-04-26T23:17:01.638628+00:00",
+      "status": "viewed"
+    },
+    {
+      "exercise_id": "ch01-ex03-compilation",
+      "viewed_at": "2026-04-26T23:17:37.882716+00:00",
+      "status": "viewed"
+    },
+    {
+      "exercise_id": "ch01-ex04-comments",
+      "viewed_at": "2026-04-26T23:18:29.767203+00:00",
+      "status": "viewed"
+    },
+    {
+      "exercise_id": "ch01-ex05-rust-edition",
+      "viewed_at": "2026-04-26T23:18:30.465131+00:00",
+      "status": "viewed"
+    },
+    {
+      "exercise_id": "ch01-ex06-first-program",
+      "viewed_at": "2026-04-26T23:18:30.991892+00:00",
+      "status": "viewed"
+    },
+    {
+      "exercise_id": "ch02-ex01-user-input",
+      "viewed_at": "2026-04-26T23:18:31.443852+00:00",
+      "status": "viewed"
+    }
+  ],
+  "achievements": [],
+  "session_stats": {
+    "exercises_viewed": 20,
+    "exercises_completed": 1,
+    "hints_used": 0,
+    "time_spent": 0
+  }
+}
